@@ -24,14 +24,3 @@ python main.py
 ```
 
 
-## Citation  
-If you use DILPA-DTI in your research, please cite the following paper:  
-```
-@article{your2025dilpa,
-  title={DILPA-DTI: A Dilated and Interaction-Laplacian Position-Aware Network for Drug–Target Interaction Prediction},
-  author={Your Name and Collaborators},
-  journal={Journal of Biomedical Informatics},
-  year={2025},
-  publisher={Elsevier}
-}
-```
